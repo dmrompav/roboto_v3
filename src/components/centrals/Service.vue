@@ -13,7 +13,7 @@ export default {
 }
 </script>
 
-<style  lang="sass" scoped>
+<style lang="sass" scoped>
 	.logo
 		width: 100%
 		height: 100%
